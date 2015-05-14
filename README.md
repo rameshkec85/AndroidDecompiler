@@ -2,11 +2,15 @@
 
 #How to Run this ?
 
-Right Click on AndroidDecompiler 
-        ---> 
-           Run As --> 
+Copy apk file into this directory ,let's say testapp.apk in the sample. 
+
+Right Click on the project: 
+
+        AndroidDecompiler ---> 
+
+                   Run As --> 
            
-                    Run Configurations 
+                         Run Configurations 
                              ---> 
                              
                                 Java Application
