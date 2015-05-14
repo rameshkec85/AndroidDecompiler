@@ -5,13 +5,18 @@
 Right Click on AndroidDecompiler 
         ---> 
            Run As --> 
+           
                     Run Configurations 
                              ---> 
+                             
                                 Java Application
                                    --> 
+                                   
                                      Main 
+                                     
                                        ---> Project --> AndroidDecompiler
                                        ---> Main Class --> com.googlecode.dex2jar.v3.Main
+                                       
                                       Arguments 
                                        ---> ProgramArguments --> testapp.apk (name of apk file)
                                        
@@ -27,6 +32,6 @@ Again we can convert jar into java classes with the following link:
 [http://jd.benow.ca/](http://jd.benow.ca/) 
 
 #More links 
-[http://decompileandroid.com/] (decompileandroid.com)
+[http://decompileandroid.com/](http://decompileandroid.com/)
 
 
